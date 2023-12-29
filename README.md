@@ -1,7 +1,7 @@
 ### Hi there! Eu sou a Isabelly, Técnica em Desenvolvimento de Sistemas
 
 - 🤓 Criei este perfil para compartilhar meus projetos e meus estudos 
-- 🌱 I’m currently learning Java, HTML, CSS e JAVASCRIPT
+- 🌱 I’m currently learning Java, HTML, CSS, JAVASCRIPT, ReactJs e C#
 - 📞 Você pode entrar em contato comigo por: isabellyd429@gmail.com
 
 
