@@ -1,8 +1,8 @@
-### Hi there! Eu sou a Isabelly, Técnica em Desenvolvimento de Sistemas
+### Olá! Eu sou a Isabelly, Técnica em Desenvolvimento de Sistemas
 
 - 🤓 Criei este perfil para compartilhar meus projetos e meus estudos 
-- 🌱 I’m currently learning Java, HTML, CSS, JAVASCRIPT, ReactJs e C#
-- 📞 Você pode entrar em contato comigo por: isabellyd429@gmail.com
+- 🌱 Tenho estudado Java, HTML, CSS, JAVASCRIPT, ReactJs e C#
+- 📞 Você pode entrar em contato comigo por: isabellydossantos112@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellySnts&show_icons=true&theme=radical)
