@@ -11,7 +11,6 @@
 ### 🚀 Sobre mim
 - 💡 Sempre aprendendo e explorando novas tecnologias.  
 - 🔥 Focada em desenvolvimento **Back-End** com **C# .NET**.  
-- 🎯 Buscando oportunidades para crescer como desenvolvedora.  
 - 📫 Me encontre no LinkedIn: https://www.linkedin.com/in/isabelly-dos-santos/
 
 ---
